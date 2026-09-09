@@ -1,7 +1,7 @@
 # Tembo Hotel Operational Analysis
 ### Project Scenario
 
-I was hired as a Junior Data Analyst at Tembo Hotel & Suites - a mid-range business hotel in Nairobi. The hotel has been running since 2023 and keeping records in a spreadsheet. That spreadsheet was in a mess.
+I was hypothetically hired as a Junior Data Analyst at Tembo Hotel & Suites - a mid-range business hotel in Nairobi. The hotel has been running since 2023 and keeping records in a spreadsheet. That spreadsheet was in a mess.
 
 The manager - the Hotel Director - handed me a raw CSV export of all booking data and said:
 
