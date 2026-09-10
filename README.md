@@ -14,6 +14,16 @@ Make it look professional - use Power BI for the visuals."*
 
 The CSV file had ~285 rows of hotel booking records. This was real-world style data - it had many problems that was found and fix before any analysis begun.
 
+### Important Stages
+*__Step 1__*
+- The csv file was imported into a __postgreSQL__ database
+- In the postgreSQL database - The data was cleaned to ensure consistent values in each of the columns
+- After cleaning I did some analysis in postgreSQL and created __views__ which can be used by the powerbi analyst to load the data
+
+*__Step 2__*
+- Loaded the data in PoweBi by connecting it to the PostgreSQL database
+- Connected the PowerBi with the database and loadd the views which could then be used for analysis and draw insights
+
 #### Analysis Queries 
 Business questions:
 1.	Revenue analysis: Total revenue by month, by room type, by payment method
